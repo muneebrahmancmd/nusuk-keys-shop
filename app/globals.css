@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+body { @apply bg-ivory text-charcoal antialiased; overflow-x: hidden; }
+:focus-visible { outline: 2px solid theme('colors.forest.600'); outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; scroll-behavior: auto !important; } }
+
+@layer components {
+  .container-x { @apply mx-auto w-full max-w-6xl px-4 sm:px-6; }
+  .btn { @apply inline-flex min-h-[44px] items-center justify-center gap-2 rounded-full px-5 py-2.5 text-sm font-medium transition duration-200 disabled:cursor-not-allowed disabled:opacity-50; }
+  .btn-primary { @apply bg-forest-700 text-white shadow-soft hover:bg-forest-800 hover:shadow-lift; }
+  .btn-ghost { @apply border border-line bg-white/80 text-charcoal hover:bg-sage-100; }
+  .btn-wa { @apply bg-[#1f8f5a] text-white shadow-soft hover:bg-[#177a4c]; }
+  .btn-danger { @apply border border-red-200 bg-red-50 text-red-800 hover:bg-red-100; }
+  .btn-sm { @apply min-h-[36px] px-3.5 py-1.5 text-xs; }
+  .card { @apply rounded-xl2 border border-line bg-white shadow-soft; }
+  .input { @apply w-full rounded-xl border border-line bg-white px-3.5 py-2.5 text-sm placeholder:text-charcoal-soft/60 focus:border-forest-500 focus:outline-none focus:ring-2 focus:ring-forest-300/50; }
+  .label { @apply mb-1.5 block text-sm font-medium; }
+  .select-sm { @apply min-h-[40px] max-w-[11rem] truncate rounded-full border border-line bg-white/80 px-3 py-1.5 text-xs hover:bg-sage-100 focus:outline-none focus:ring-2 focus:ring-forest-300/50; }
+  .badge { @apply inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset; }
+  .h1 { @apply font-display text-4xl font-semibold leading-tight tracking-tight sm:text-5xl; }
+  .h2 { @apply font-display text-2xl font-semibold tracking-tight sm:text-3xl; }
+  .muted { @apply text-charcoal-soft; }
+  .th { @apply whitespace-nowrap px-3 py-2 text-start text-xs font-medium uppercase tracking-wide text-charcoal-soft; }
+  .td { @apply px-3 py-3 align-top text-sm; }
+}

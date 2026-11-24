@@ -1,0 +1,211 @@
+{
+  "ar": {
+    "nav.packages": "الباقات", "nav.dashboard": "حسابي", "nav.signIn": "تسجيل الدخول", "nav.signOut": "تسجيل الخروج", "nav.howItWorks": "كيف يعمل", "nav.support": "الدعم", "nav.admin": "الإدارة", "nav.menu": "القائمة",
+    "common.language": "اللغة", "common.country": "الدولة", "common.currency": "العملة", "common.save": "حفظ التغييرات", "common.retry": "حاول مرة أخرى",
+    "hero.badge": "خدمة رصيد رقمي مستقلة", "hero.title": "رصيد رقمي، يُطلب ببساطة ويتحقق منه شخص حقيقي.", "hero.subtitle": "اختر باقة وأكّد طلبك ثم أتمم الدفع مباشرة مع المسؤول عبر واتساب. تابع كل خطوة من لوحة التحكم الخاصة بك.", "hero.cta": "استعرض الباقات", "hero.secondary": "كيف يعمل",
+    "packages.title": "باقات الرصيد", "packages.credits": "{n} رصيد", "packages.buy": "اطلب هذه الباقة", "packages.unavailable": "غير متاحة حاليًا", "packages.redeemable": "قابل للاستبدال مقابل",
+    "login.title": "تسجيل الدخول", "login.google": "المتابعة باستخدام Google",
+    "order.title": "تأكيد الطلب", "order.confirm": "تأكيد الطلب", "order.whatsapp": "تواصل مع المسؤول عبر واتساب", "order.id": "رقم الطلب", "order.total": "الإجمالي",
+    "status.pending": "بانتظار الدفع", "status.submitted": "تم إرسال الدفع", "status.under_verification": "قيد التحقق", "status.approved": "تمت الموافقة على الدفع", "status.rejected": "تم رفض الدفع", "status.processing": "قيد المعالجة", "status.fulfilled": "تم التنفيذ", "status.cancelled": "ملغى", "status.refund_requested": "طلب استرداد", "status.refunded": "تم الاسترداد",
+    "dashboard.title": "حسابي", "dashboard.orders": "طلباتي", "dashboard.noOrders": "لم تقم بأي طلب بعد.",
+    "footer.independent": "هذه خدمة مستقلة وغير تابعة لأي جهة حكومية أو منصة خارجية."
+  },
+  "ur": {
+    "nav.packages": "پیکجز", "nav.dashboard": "میرا اکاؤنٹ", "nav.signIn": "سائن اِن", "nav.signOut": "سائن آؤٹ", "nav.howItWorks": "یہ کیسے کام کرتا ہے", "nav.support": "مدد", "nav.admin": "ایڈمن", "nav.menu": "مینو",
+    "common.language": "زبان", "common.country": "ملک", "common.currency": "کرنسی", "common.save": "تبدیلیاں محفوظ کریں", "common.retry": "دوبارہ کوشش کریں",
+    "hero.badge": "آزاد ڈیجیٹل کریڈٹ سروس", "hero.title": "ڈیجیٹل کریڈٹ، آسان آرڈر اور حقیقی شخص سے تصدیق۔", "hero.subtitle": "پیکج منتخب کریں، آرڈر دیں، اور واٹس ایپ پر ایڈمن کے ساتھ براہِ راست ادائیگی طے کریں۔ اپنے ڈیش بورڈ سے ہر مرحلہ دیکھیں۔", "hero.cta": "پیکجز دیکھیں", "hero.secondary": "یہ کیسے کام کرتا ہے",
+    "packages.title": "کریڈٹ پیکجز", "packages.credits": "{n} کریڈٹس", "packages.buy": "یہ پیکج آرڈر کریں", "packages.unavailable": "فی الحال دستیاب نہیں", "packages.redeemable": "اس کے لیے قابلِ استعمال",
+    "login.title": "سائن اِن", "login.google": "Google کے ساتھ جاری رکھیں",
+    "order.title": "آرڈر کی تصدیق", "order.confirm": "آرڈر کنفرم کریں", "order.whatsapp": "واٹس ایپ پر ایڈمن سے رابطہ کریں", "order.id": "آرڈر آئی ڈی", "order.total": "کل رقم",
+    "status.pending": "ادائیگی زیرِ التوا", "status.submitted": "ادائیگی جمع", "status.under_verification": "تصدیق جاری", "status.approved": "ادائیگی منظور", "status.rejected": "ادائیگی مسترد", "status.processing": "پروسیسنگ", "status.fulfilled": "مکمل", "status.cancelled": "منسوخ", "status.refund_requested": "رقم واپسی کی درخواست", "status.refunded": "رقم واپس",
+    "dashboard.title": "میرا اکاؤنٹ", "dashboard.orders": "میرے آرڈرز", "dashboard.noOrders": "آپ نے ابھی تک کوئی آرڈر نہیں دیا۔",
+    "footer.independent": "یہ ایک آزاد سروس ہے اور کسی سرکاری ادارے یا تیسرے فریق کے پلیٹ فارم سے وابستہ نہیں۔"
+  },
+  "fa": {
+    "nav.packages": "بسته‌ها", "nav.dashboard": "حساب من", "nav.signIn": "ورود", "nav.signOut": "خروج", "nav.howItWorks": "نحوه کار", "nav.support": "پشتیبانی", "nav.admin": "مدیریت", "nav.menu": "منو",
+    "common.language": "زبان", "common.country": "کشور", "common.currency": "واحد پول", "common.save": "ذخیره تغییرات", "common.retry": "تلاش دوباره",
+    "hero.badge": "خدمات مستقل اعتبار دیجیتال", "hero.title": "اعتبار دیجیتال، سفارش ساده و تأیید توسط یک انسان واقعی.", "hero.subtitle": "یک بسته انتخاب کنید، سفارش دهید و پرداخت را مستقیماً از طریق واتساپ با مدیر هماهنگ کنید. هر مرحله را از داشبورد خود دنبال کنید.", "hero.cta": "مشاهده بسته‌ها", "hero.secondary": "نحوه کار",
+    "packages.title": "بسته‌های اعتبار", "packages.credits": "{n} اعتبار", "packages.buy": "سفارش این بسته", "packages.unavailable": "فعلاً در دسترس نیست", "packages.redeemable": "قابل استفاده برای",
+    "login.title": "ورود", "login.google": "ادامه با Google",
+    "order.title": "تأیید سفارش", "order.confirm": "تأیید سفارش", "order.whatsapp": "تماس با مدیر در واتساپ", "order.id": "شناسه سفارش", "order.total": "مجموع",
+    "status.pending": "در انتظار پرداخت", "status.submitted": "پرداخت ارسال شد", "status.under_verification": "در حال بررسی", "status.approved": "پرداخت تأیید شد", "status.rejected": "پرداخت رد شد", "status.processing": "در حال پردازش", "status.fulfilled": "انجام شد", "status.cancelled": "لغو شده", "status.refund_requested": "درخواست بازپرداخت", "status.refunded": "بازپرداخت شد",
+    "dashboard.title": "حساب من", "dashboard.orders": "سفارش‌های من", "dashboard.noOrders": "هنوز سفارشی ثبت نکرده‌اید.",
+    "footer.independent": "این یک خدمت مستقل است و به هیچ نهاد دولتی یا پلتفرم شخص ثالث وابسته نیست."
+  },
+  "hi": {
+    "nav.packages": "पैकेज", "nav.dashboard": "मेरा खाता", "nav.signIn": "साइन इन", "nav.signOut": "साइन आउट", "nav.howItWorks": "यह कैसे काम करता है", "nav.support": "सहायता", "nav.admin": "एडमिन", "nav.menu": "मेनू",
+    "common.language": "भाषा", "common.country": "देश", "common.currency": "मुद्रा", "common.save": "बदलाव सहेजें", "common.retry": "फिर कोशिश करें",
+    "hero.badge": "स्वतंत्र डिजिटल क्रेडिट सेवा", "hero.title": "डिजिटल क्रेडिट, आसान ऑर्डर और असली व्यक्ति द्वारा सत्यापन।", "hero.subtitle": "पैकेज चुनें, ऑर्डर दें और WhatsApp पर सीधे एडमिन से भुगतान तय करें। अपने डैशबोर्ड से हर चरण देखें।", "hero.cta": "पैकेज देखें", "hero.secondary": "यह कैसे काम करता है",
+    "packages.title": "क्रेडिट पैकेज", "packages.credits": "{n} क्रेडिट", "packages.buy": "यह पैकेज ऑर्डर करें", "packages.unavailable": "फ़िलहाल उपलब्ध नहीं", "packages.redeemable": "इसके लिए उपयोग योग्य",
+    "login.title": "साइन इन", "login.google": "Google से जारी रखें",
+    "order.title": "ऑर्डर की पुष्टि करें", "order.confirm": "ऑर्डर कन्फर्म करें", "order.whatsapp": "WhatsApp पर एडमिन से संपर्क करें", "order.id": "ऑर्डर आईडी", "order.total": "कुल",
+    "status.pending": "भुगतान लंबित", "status.submitted": "भुगतान जमा", "status.under_verification": "सत्यापन जारी", "status.approved": "भुगतान स्वीकृत", "status.rejected": "भुगतान अस्वीकृत", "status.processing": "प्रोसेसिंग", "status.fulfilled": "पूर्ण", "status.cancelled": "रद्द", "status.refund_requested": "रिफंड अनुरोध", "status.refunded": "रिफंड हो गया",
+    "dashboard.title": "मेरा खाता", "dashboard.orders": "मेरे ऑर्डर", "dashboard.noOrders": "आपने अभी तक कोई ऑर्डर नहीं दिया है।",
+    "footer.independent": "यह एक स्वतंत्र सेवा है और किसी सरकारी प्राधिकरण या तृतीय-पक्ष प्लेटफ़ॉर्म से संबद्ध नहीं है।"
+  },
+  "tr": {
+    "nav.packages": "Paketler", "nav.dashboard": "Hesabım", "nav.signIn": "Giriş yap", "nav.signOut": "Çıkış yap", "nav.howItWorks": "Nasıl çalışır", "nav.support": "Destek", "nav.admin": "Yönetim", "nav.menu": "Menü",
+    "common.language": "Dil", "common.country": "Ülke", "common.currency": "Para birimi", "common.save": "Değişiklikleri kaydet", "common.retry": "Tekrar dene",
+    "hero.badge": "Bağımsız dijital kredi hizmeti", "hero.title": "Dijital krediler: kolay sipariş, gerçek bir kişi tarafından doğrulama.", "hero.subtitle": "Bir paket seçin, siparişinizi verin ve ödemeyi WhatsApp üzerinden doğrudan yöneticiyle halledin. Her adımı panelinizden izleyin.", "hero.cta": "Paketleri incele", "hero.secondary": "Nasıl çalışır",
+    "packages.title": "Kredi paketleri", "packages.credits": "{n} kredi", "packages.buy": "Bu paketi sipariş et", "packages.unavailable": "Şu anda mevcut değil", "packages.redeemable": "Kullanım alanı",
+    "login.title": "Giriş yap", "login.google": "Google ile devam et",
+    "order.title": "Siparişi onayla", "order.confirm": "Siparişi onayla", "order.whatsapp": "WhatsApp'ta yöneticiyle iletişime geç", "order.id": "Sipariş No", "order.total": "Toplam",
+    "status.pending": "Ödeme bekleniyor", "status.submitted": "Ödeme gönderildi", "status.under_verification": "Doğrulanıyor", "status.approved": "Ödeme onaylandı", "status.rejected": "Ödeme reddedildi", "status.processing": "İşleniyor", "status.fulfilled": "Tamamlandı", "status.cancelled": "İptal edildi", "status.refund_requested": "İade talep edildi", "status.refunded": "İade edildi",
+    "dashboard.title": "Hesabım", "dashboard.orders": "Siparişlerim", "dashboard.noOrders": "Henüz sipariş vermediniz.",
+    "footer.independent": "Bu bağımsız bir hizmettir; hiçbir devlet kurumu veya üçüncü taraf platformla bağlantılı değildir."
+  },
+  "fr": {
+    "nav.packages": "Forfaits", "nav.dashboard": "Mon compte", "nav.signIn": "Se connecter", "nav.signOut": "Se déconnecter", "nav.howItWorks": "Comment ça marche", "nav.support": "Assistance", "nav.admin": "Admin", "nav.menu": "Menu",
+    "common.language": "Langue", "common.country": "Pays", "common.currency": "Devise", "common.save": "Enregistrer", "common.retry": "Réessayer",
+    "hero.badge": "Service indépendant de crédits numériques", "hero.title": "Des crédits numériques, commandés simplement et vérifiés par une vraie personne.", "hero.subtitle": "Choisissez un forfait, passez commande et réglez directement avec l'administrateur via WhatsApp. Suivez chaque étape depuis votre tableau de bord.", "hero.cta": "Voir les forfaits", "hero.secondary": "Comment ça marche",
+    "packages.title": "Forfaits de crédits", "packages.credits": "{n} crédits", "packages.buy": "Commander ce forfait", "packages.unavailable": "Actuellement indisponible", "packages.redeemable": "Utilisable pour",
+    "login.title": "Connexion", "login.google": "Continuer avec Google",
+    "order.title": "Confirmer votre commande", "order.confirm": "Confirmer la commande", "order.whatsapp": "Contacter l'administrateur sur WhatsApp", "order.id": "N° de commande", "order.total": "Total",
+    "status.pending": "Paiement en attente", "status.submitted": "Paiement envoyé", "status.under_verification": "En vérification", "status.approved": "Paiement approuvé", "status.rejected": "Paiement refusé", "status.processing": "En cours de traitement", "status.fulfilled": "Terminée", "status.cancelled": "Annulée", "status.refund_requested": "Remboursement demandé", "status.refunded": "Remboursée",
+    "dashboard.title": "Mon compte", "dashboard.orders": "Mes commandes", "dashboard.noOrders": "Vous n'avez pas encore passé de commande.",
+    "footer.independent": "Service indépendant, non affilié à une autorité publique ni à une plateforme tierce."
+  },
+  "de": {
+    "nav.packages": "Pakete", "nav.dashboard": "Mein Konto", "nav.signIn": "Anmelden", "nav.signOut": "Abmelden", "nav.howItWorks": "So funktioniert's", "nav.support": "Hilfe", "nav.admin": "Admin", "nav.menu": "Menü",
+    "common.language": "Sprache", "common.country": "Land", "common.currency": "Währung", "common.save": "Änderungen speichern", "common.retry": "Erneut versuchen",
+    "hero.badge": "Unabhängiger Dienst für digitale Guthaben", "hero.title": "Digitale Guthaben, einfach bestellt und von einer echten Person geprüft.", "hero.subtitle": "Wählen Sie ein Paket, bestellen Sie und regeln Sie die Zahlung direkt mit dem Administrator über WhatsApp. Verfolgen Sie jeden Schritt in Ihrem Konto.", "hero.cta": "Pakete ansehen", "hero.secondary": "So funktioniert's",
+    "packages.title": "Guthabenpakete", "packages.credits": "{n} Guthaben", "packages.buy": "Dieses Paket bestellen", "packages.unavailable": "Derzeit nicht verfügbar", "packages.redeemable": "Einlösbar für",
+    "login.title": "Anmelden", "login.google": "Weiter mit Google",
+    "order.title": "Bestellung bestätigen", "order.confirm": "Bestellung bestätigen", "order.whatsapp": "Administrator auf WhatsApp kontaktieren", "order.id": "Bestell-Nr.", "order.total": "Gesamt",
+    "status.pending": "Zahlung ausstehend", "status.submitted": "Zahlung gemeldet", "status.under_verification": "In Prüfung", "status.approved": "Zahlung bestätigt", "status.rejected": "Zahlung abgelehnt", "status.processing": "In Bearbeitung", "status.fulfilled": "Abgeschlossen", "status.cancelled": "Storniert", "status.refund_requested": "Erstattung angefragt", "status.refunded": "Erstattet",
+    "dashboard.title": "Mein Konto", "dashboard.orders": "Meine Bestellungen", "dashboard.noOrders": "Sie haben noch keine Bestellung aufgegeben.",
+    "footer.independent": "Dies ist ein unabhängiger Dienst ohne Verbindung zu Behörden oder Drittplattformen."
+  },
+  "es": {
+    "nav.packages": "Paquetes", "nav.dashboard": "Mi cuenta", "nav.signIn": "Iniciar sesión", "nav.signOut": "Cerrar sesión", "nav.howItWorks": "Cómo funciona", "nav.support": "Ayuda", "nav.admin": "Admin", "nav.menu": "Menú",
+    "common.language": "Idioma", "common.country": "País", "common.currency": "Moneda", "common.save": "Guardar cambios", "common.retry": "Reintentar",
+    "hero.badge": "Servicio independiente de créditos digitales", "hero.title": "Créditos digitales, pedidos fácilmente y verificados por una persona real.", "hero.subtitle": "Elige un paquete, haz tu pedido y acuerda el pago directamente con el administrador por WhatsApp. Sigue cada paso desde tu panel.", "hero.cta": "Ver paquetes", "hero.secondary": "Cómo funciona",
+    "packages.title": "Paquetes de créditos", "packages.credits": "{n} créditos", "packages.buy": "Pedir este paquete", "packages.unavailable": "No disponible por ahora", "packages.redeemable": "Canjeable por",
+    "login.title": "Iniciar sesión", "login.google": "Continuar con Google",
+    "order.title": "Confirma tu pedido", "order.confirm": "Confirmar pedido", "order.whatsapp": "Contactar al administrador por WhatsApp", "order.id": "N.º de pedido", "order.total": "Total",
+    "status.pending": "Pago pendiente", "status.submitted": "Pago enviado", "status.under_verification": "En verificación", "status.approved": "Pago aprobado", "status.rejected": "Pago rechazado", "status.processing": "En proceso", "status.fulfilled": "Completado", "status.cancelled": "Cancelado", "status.refund_requested": "Reembolso solicitado", "status.refunded": "Reembolsado",
+    "dashboard.title": "Mi cuenta", "dashboard.orders": "Mis pedidos", "dashboard.noOrders": "Aún no has hecho ningún pedido.",
+    "footer.independent": "Servicio independiente, sin afiliación con ninguna autoridad gubernamental ni plataforma de terceros."
+  },
+  "pt": {
+    "nav.packages": "Pacotes", "nav.dashboard": "Minha conta", "nav.signIn": "Entrar", "nav.signOut": "Sair", "nav.howItWorks": "Como funciona", "nav.support": "Suporte", "nav.admin": "Admin", "nav.menu": "Menu",
+    "common.language": "Idioma", "common.country": "País", "common.currency": "Moeda", "common.save": "Salvar alterações", "common.retry": "Tentar novamente",
+    "hero.badge": "Serviço independente de créditos digitais", "hero.title": "Créditos digitais, pedidos com simplicidade e verificados por uma pessoa real.", "hero.subtitle": "Escolha um pacote, faça o pedido e combine o pagamento diretamente com o administrador pelo WhatsApp. Acompanhe cada etapa no seu painel.", "hero.cta": "Ver pacotes", "hero.secondary": "Como funciona",
+    "packages.title": "Pacotes de créditos", "packages.credits": "{n} créditos", "packages.buy": "Pedir este pacote", "packages.unavailable": "Indisponível no momento", "packages.redeemable": "Resgatável por",
+    "login.title": "Entrar", "login.google": "Continuar com o Google",
+    "order.title": "Confirme seu pedido", "order.confirm": "Confirmar pedido", "order.whatsapp": "Falar com o administrador no WhatsApp", "order.id": "Nº do pedido", "order.total": "Total",
+    "status.pending": "Pagamento pendente", "status.submitted": "Pagamento enviado", "status.under_verification": "Em verificação", "status.approved": "Pagamento aprovado", "status.rejected": "Pagamento recusado", "status.processing": "Em processamento", "status.fulfilled": "Concluído", "status.cancelled": "Cancelado", "status.refund_requested": "Reembolso solicitado", "status.refunded": "Reembolsado",
+    "dashboard.title": "Minha conta", "dashboard.orders": "Meus pedidos", "dashboard.noOrders": "Você ainda não fez nenhum pedido.",
+    "footer.independent": "Serviço independente, sem vínculo com qualquer autoridade governamental ou plataforma de terceiros."
+  },
+  "ru": {
+    "nav.packages": "Пакеты", "nav.dashboard": "Мой аккаунт", "nav.signIn": "Войти", "nav.signOut": "Выйти", "nav.howItWorks": "Как это работает", "nav.support": "Поддержка", "nav.admin": "Админ", "nav.menu": "Меню",
+    "common.language": "Язык", "common.country": "Страна", "common.currency": "Валюта", "common.save": "Сохранить", "common.retry": "Повторить",
+    "hero.badge": "Независимый сервис цифровых кредитов", "hero.title": "Цифровые кредиты: простой заказ и проверка живым человеком.", "hero.subtitle": "Выберите пакет, оформите заказ и согласуйте оплату напрямую с администратором в WhatsApp. Следите за каждым этапом в личном кабинете.", "hero.cta": "Смотреть пакеты", "hero.secondary": "Как это работает",
+    "packages.title": "Пакеты кредитов", "packages.credits": "{n} кредитов", "packages.buy": "Заказать пакет", "packages.unavailable": "Сейчас недоступно", "packages.redeemable": "Можно использовать для",
+    "login.title": "Вход", "login.google": "Продолжить с Google",
+    "order.title": "Подтвердите заказ", "order.confirm": "Подтвердить заказ", "order.whatsapp": "Связаться с администратором в WhatsApp", "order.id": "Номер заказа", "order.total": "Итого",
+    "status.pending": "Ожидает оплаты", "status.submitted": "Оплата отправлена", "status.under_verification": "На проверке", "status.approved": "Оплата подтверждена", "status.rejected": "Оплата отклонена", "status.processing": "В обработке", "status.fulfilled": "Выполнен", "status.cancelled": "Отменён", "status.refund_requested": "Запрошен возврат", "status.refunded": "Возвращено",
+    "dashboard.title": "Мой аккаунт", "dashboard.orders": "Мои заказы", "dashboard.noOrders": "У вас пока нет заказов.",
+    "footer.independent": "Это независимый сервис, не связанный с государственными органами или сторонними платформами."
+  },
+  "zh": {
+    "nav.packages": "套餐", "nav.dashboard": "我的账户", "nav.signIn": "登录", "nav.signOut": "退出登录", "nav.howItWorks": "如何运作", "nav.support": "支持", "nav.admin": "管理", "nav.menu": "菜单",
+    "common.language": "语言", "common.country": "国家/地区", "common.currency": "货币", "common.save": "保存更改", "common.retry": "重试",
+    "hero.badge": "独立的数字额度服务", "hero.title": "数字额度，下单简单，由真人审核。", "hero.subtitle": "选择套餐并下单，然后通过 WhatsApp 直接与管理员确认付款。可在个人面板中跟踪每一步。", "hero.cta": "查看套餐", "hero.secondary": "如何运作",
+    "packages.title": "额度套餐", "packages.credits": "{n} 额度", "packages.buy": "订购此套餐", "packages.unavailable": "暂不可用", "packages.redeemable": "可兑换用于",
+    "login.title": "登录", "login.google": "使用 Google 继续",
+    "order.title": "确认订单", "order.confirm": "确认订单", "order.whatsapp": "通过 WhatsApp 联系管理员", "order.id": "订单号", "order.total": "合计",
+    "status.pending": "待付款", "status.submitted": "已提交付款", "status.under_verification": "审核中", "status.approved": "付款已批准", "status.rejected": "付款被拒绝", "status.processing": "处理中", "status.fulfilled": "已完成", "status.cancelled": "已取消", "status.refund_requested": "已申请退款", "status.refunded": "已退款",
+    "dashboard.title": "我的账户", "dashboard.orders": "我的订单", "dashboard.noOrders": "您还没有任何订单。",
+    "footer.independent": "本服务为独立服务，与任何政府机构或第三方平台无关。"
+  },
+  "ja": {
+    "nav.packages": "パッケージ", "nav.dashboard": "マイアカウント", "nav.signIn": "ログイン", "nav.signOut": "ログアウト", "nav.howItWorks": "ご利用の流れ", "nav.support": "サポート", "nav.admin": "管理", "nav.menu": "メニュー",
+    "common.language": "言語", "common.country": "国", "common.currency": "通貨", "common.save": "変更を保存", "common.retry": "再試行",
+    "hero.badge": "独立したデジタルクレジットサービス", "hero.title": "デジタルクレジットを手軽に注文、実在の担当者が確認します。", "hero.subtitle": "パッケージを選んで注文し、WhatsAppで管理者と直接お支払いを調整します。各ステップはダッシュボードで確認できます。", "hero.cta": "パッケージを見る", "hero.secondary": "ご利用の流れ",
+    "packages.title": "クレジットパッケージ", "packages.credits": "{n} クレジット", "packages.buy": "このパッケージを注文", "packages.unavailable": "現在ご利用いただけません", "packages.redeemable": "利用できる内容",
+    "login.title": "ログイン", "login.google": "Googleで続行",
+    "order.title": "注文の確認", "order.confirm": "注文を確定", "order.whatsapp": "WhatsAppで管理者に連絡", "order.id": "注文ID", "order.total": "合計",
+    "status.pending": "支払い待ち", "status.submitted": "支払い提出済み", "status.under_verification": "確認中", "status.approved": "支払い承認済み", "status.rejected": "支払い却下", "status.processing": "処理中", "status.fulfilled": "完了", "status.cancelled": "キャンセル", "status.refund_requested": "返金申請中", "status.refunded": "返金済み",
+    "dashboard.title": "マイアカウント", "dashboard.orders": "注文履歴", "dashboard.noOrders": "まだ注文がありません。",
+    "footer.independent": "当サービスは独立しており、政府機関や第三者プラットフォームとは関係ありません。"
+  },
+  "ko": {
+    "nav.packages": "패키지", "nav.dashboard": "내 계정", "nav.signIn": "로그인", "nav.signOut": "로그아웃", "nav.howItWorks": "이용 방법", "nav.support": "지원", "nav.admin": "관리자", "nav.menu": "메뉴",
+    "common.language": "언어", "common.country": "국가", "common.currency": "통화", "common.save": "변경 사항 저장", "common.retry": "다시 시도",
+    "hero.badge": "독립 디지털 크레딧 서비스", "hero.title": "디지털 크레딧을 간편하게 주문하고, 실제 담당자가 확인합니다.", "hero.subtitle": "패키지를 선택하고 주문한 뒤 WhatsApp으로 관리자와 직접 결제를 진행하세요. 모든 단계를 대시보드에서 확인할 수 있습니다.", "hero.cta": "패키지 보기", "hero.secondary": "이용 방법",
+    "packages.title": "크레딧 패키지", "packages.credits": "{n} 크레딧", "packages.buy": "이 패키지 주문", "packages.unavailable": "현재 이용 불가", "packages.redeemable": "사용 가능 항목",
+    "login.title": "로그인", "login.google": "Google로 계속하기",
+    "order.title": "주문 확인", "order.confirm": "주문 확정", "order.whatsapp": "WhatsApp으로 관리자에게 문의", "order.id": "주문 번호", "order.total": "합계",
+    "status.pending": "결제 대기", "status.submitted": "결제 제출됨", "status.under_verification": "확인 중", "status.approved": "결제 승인됨", "status.rejected": "결제 거절됨", "status.processing": "처리 중", "status.fulfilled": "완료", "status.cancelled": "취소됨", "status.refund_requested": "환불 요청됨", "status.refunded": "환불 완료",
+    "dashboard.title": "내 계정", "dashboard.orders": "내 주문", "dashboard.noOrders": "아직 주문 내역이 없습니다.",
+    "footer.independent": "이 서비스는 독립 서비스이며 정부 기관이나 제3자 플랫폼과 관련이 없습니다."
+  },
+  "bn": {
+    "nav.packages": "প্যাকেজ", "nav.dashboard": "আমার অ্যাকাউন্ট", "nav.signIn": "সাইন ইন", "nav.signOut": "সাইন আউট", "nav.howItWorks": "কীভাবে কাজ করে", "nav.support": "সহায়তা", "nav.admin": "অ্যাডমিন", "nav.menu": "মেনু",
+    "common.language": "ভাষা", "common.country": "দেশ", "common.currency": "মুদ্রা", "common.save": "পরিবর্তন সংরক্ষণ", "common.retry": "আবার চেষ্টা করুন",
+    "hero.badge": "স্বাধীন ডিজিটাল ক্রেডিট সেবা", "hero.title": "ডিজিটাল ক্রেডিট, সহজ অর্ডার এবং বাস্তব ব্যক্তির যাচাই।", "hero.subtitle": "একটি প্যাকেজ বেছে নিন, অর্ডার করুন এবং হোয়াটসঅ্যাপে সরাসরি অ্যাডমিনের সঙ্গে পেমেন্ট ঠিক করুন। আপনার ড্যাশবোর্ডে প্রতিটি ধাপ দেখুন।", "hero.cta": "প্যাকেজ দেখুন", "hero.secondary": "কীভাবে কাজ করে",
+    "packages.title": "ক্রেডিট প্যাকেজ", "packages.credits": "{n} ক্রেডিট", "packages.buy": "এই প্যাকেজ অর্ডার করুন", "packages.unavailable": "বর্তমানে উপলব্ধ নয়", "packages.redeemable": "যার জন্য ব্যবহারযোগ্য",
+    "login.title": "সাইন ইন", "login.google": "Google দিয়ে চালিয়ে যান",
+    "order.title": "অর্ডার নিশ্চিত করুন", "order.confirm": "অর্ডার নিশ্চিত করুন", "order.whatsapp": "হোয়াটসঅ্যাপে অ্যাডমিনের সঙ্গে যোগাযোগ করুন", "order.id": "অর্ডার আইডি", "order.total": "মোট",
+    "status.pending": "পেমেন্ট বাকি", "status.submitted": "পেমেন্ট জমা হয়েছে", "status.under_verification": "যাচাই চলছে", "status.approved": "পেমেন্ট অনুমোদিত", "status.rejected": "পেমেন্ট প্রত্যাখ্যাত", "status.processing": "প্রক্রিয়াধীন", "status.fulfilled": "সম্পন্ন", "status.cancelled": "বাতিল", "status.refund_requested": "রিফান্ডের অনুরোধ", "status.refunded": "রিফান্ড হয়েছে",
+    "dashboard.title": "আমার অ্যাকাউন্ট", "dashboard.orders": "আমার অর্ডার", "dashboard.noOrders": "আপনি এখনও কোনো অর্ডার করেননি।",
+    "footer.independent": "এটি একটি স্বাধীন সেবা এবং কোনো সরকারি কর্তৃপক্ষ বা তৃতীয় পক্ষের প্ল্যাটফর্মের সঙ্গে যুক্ত নয়।"
+  },
+  "id": {
+    "nav.packages": "Paket", "nav.dashboard": "Akun saya", "nav.signIn": "Masuk", "nav.signOut": "Keluar", "nav.howItWorks": "Cara kerja", "nav.support": "Bantuan", "nav.admin": "Admin", "nav.menu": "Menu",
+    "common.language": "Bahasa", "common.country": "Negara", "common.currency": "Mata uang", "common.save": "Simpan perubahan", "common.retry": "Coba lagi",
+    "hero.badge": "Layanan kredit digital independen", "hero.title": "Kredit digital, dipesan dengan mudah dan diverifikasi oleh orang sungguhan.", "hero.subtitle": "Pilih paket, buat pesanan, lalu selesaikan pembayaran langsung dengan admin lewat WhatsApp. Pantau setiap langkah dari dasbor Anda.", "hero.cta": "Lihat paket", "hero.secondary": "Cara kerja",
+    "packages.title": "Paket kredit", "packages.credits": "{n} kredit", "packages.buy": "Pesan paket ini", "packages.unavailable": "Saat ini tidak tersedia", "packages.redeemable": "Dapat ditukar untuk",
+    "login.title": "Masuk", "login.google": "Lanjutkan dengan Google",
+    "order.title": "Konfirmasi pesanan", "order.confirm": "Konfirmasi pesanan", "order.whatsapp": "Hubungi admin lewat WhatsApp", "order.id": "ID pesanan", "order.total": "Total",
+    "status.pending": "Menunggu pembayaran", "status.submitted": "Pembayaran dikirim", "status.under_verification": "Sedang diverifikasi", "status.approved": "Pembayaran disetujui", "status.rejected": "Pembayaran ditolak", "status.processing": "Diproses", "status.fulfilled": "Selesai", "status.cancelled": "Dibatalkan", "status.refund_requested": "Pengembalian dana diminta", "status.refunded": "Dana dikembalikan",
+    "dashboard.title": "Akun saya", "dashboard.orders": "Pesanan saya", "dashboard.noOrders": "Anda belum membuat pesanan.",
+    "footer.independent": "Layanan independen, tidak berafiliasi dengan otoritas pemerintah atau platform pihak ketiga mana pun."
+  },
+  "ms": {
+    "nav.packages": "Pakej", "nav.dashboard": "Akaun saya", "nav.signIn": "Log masuk", "nav.signOut": "Log keluar", "nav.howItWorks": "Cara ia berfungsi", "nav.support": "Bantuan", "nav.admin": "Admin", "nav.menu": "Menu",
+    "common.language": "Bahasa", "common.country": "Negara", "common.currency": "Mata wang", "common.save": "Simpan perubahan", "common.retry": "Cuba lagi",
+    "hero.badge": "Perkhidmatan kredit digital bebas", "hero.title": "Kredit digital, ditempah dengan mudah dan disahkan oleh orang sebenar.", "hero.subtitle": "Pilih pakej, buat tempahan dan selesaikan bayaran terus dengan admin melalui WhatsApp. Jejaki setiap langkah dari papan pemuka anda.", "hero.cta": "Lihat pakej", "hero.secondary": "Cara ia berfungsi",
+    "packages.title": "Pakej kredit", "packages.credits": "{n} kredit", "packages.buy": "Tempah pakej ini", "packages.unavailable": "Tidak tersedia buat masa ini", "packages.redeemable": "Boleh ditebus untuk",
+    "login.title": "Log masuk", "login.google": "Teruskan dengan Google",
+    "order.title": "Sahkan tempahan", "order.confirm": "Sahkan tempahan", "order.whatsapp": "Hubungi admin di WhatsApp", "order.id": "ID tempahan", "order.total": "Jumlah",
+    "status.pending": "Menunggu bayaran", "status.submitted": "Bayaran dihantar", "status.under_verification": "Sedang disahkan", "status.approved": "Bayaran diluluskan", "status.rejected": "Bayaran ditolak", "status.processing": "Sedang diproses", "status.fulfilled": "Selesai", "status.cancelled": "Dibatalkan", "status.refund_requested": "Bayaran balik diminta", "status.refunded": "Telah dibayar balik",
+    "dashboard.title": "Akaun saya", "dashboard.orders": "Tempahan saya", "dashboard.noOrders": "Anda belum membuat sebarang tempahan.",
+    "footer.independent": "Perkhidmatan bebas, tidak berkaitan dengan mana-mana pihak berkuasa kerajaan atau platform pihak ketiga."
+  },
+  "it": {
+    "nav.packages": "Pacchetti", "nav.dashboard": "Il mio account", "nav.signIn": "Accedi", "nav.signOut": "Esci", "nav.howItWorks": "Come funziona", "nav.support": "Assistenza", "nav.admin": "Admin", "nav.menu": "Menu",
+    "common.language": "Lingua", "common.country": "Paese", "common.currency": "Valuta", "common.save": "Salva modifiche", "common.retry": "Riprova",
+    "hero.badge": "Servizio indipendente di crediti digitali", "hero.title": "Crediti digitali, ordinati con semplicità e verificati da una persona reale.", "hero.subtitle": "Scegli un pacchetto, effettua l'ordine e concorda il pagamento direttamente con l'amministratore su WhatsApp. Segui ogni passaggio dalla tua area personale.", "hero.cta": "Scopri i pacchetti", "hero.secondary": "Come funziona",
+    "packages.title": "Pacchetti di crediti", "packages.credits": "{n} crediti", "packages.buy": "Ordina questo pacchetto", "packages.unavailable": "Al momento non disponibile", "packages.redeemable": "Utilizzabile per",
+    "login.title": "Accedi", "login.google": "Continua con Google",
+    "order.title": "Conferma il tuo ordine", "order.confirm": "Conferma ordine", "order.whatsapp": "Contatta l'amministratore su WhatsApp", "order.id": "ID ordine", "order.total": "Totale",
+    "status.pending": "Pagamento in attesa", "status.submitted": "Pagamento inviato", "status.under_verification": "In verifica", "status.approved": "Pagamento approvato", "status.rejected": "Pagamento rifiutato", "status.processing": "In lavorazione", "status.fulfilled": "Completato", "status.cancelled": "Annullato", "status.refund_requested": "Rimborso richiesto", "status.refunded": "Rimborsato",
+    "dashboard.title": "Il mio account", "dashboard.orders": "I miei ordini", "dashboard.noOrders": "Non hai ancora effettuato ordini.",
+    "footer.independent": "Servizio indipendente, non affiliato ad alcuna autorità governativa o piattaforma di terzi."
+  },
+  "nl": {
+    "nav.packages": "Pakketten", "nav.dashboard": "Mijn account", "nav.signIn": "Inloggen", "nav.signOut": "Uitloggen", "nav.howItWorks": "Hoe het werkt", "nav.support": "Hulp", "nav.admin": "Beheer", "nav.menu": "Menu",
+    "common.language": "Taal", "common.country": "Land", "common.currency": "Valuta", "common.save": "Wijzigingen opslaan", "common.retry": "Opnieuw proberen",
+    "hero.badge": "Onafhankelijke dienst voor digitale tegoeden", "hero.title": "Digitale tegoeden, eenvoudig besteld en gecontroleerd door een echt persoon.", "hero.subtitle": "Kies een pakket, plaats je bestelling en regel de betaling rechtstreeks met de beheerder via WhatsApp. Volg elke stap in je account.", "hero.cta": "Bekijk pakketten", "hero.secondary": "Hoe het werkt",
+    "packages.title": "Tegoedpakketten", "packages.credits": "{n} tegoed", "packages.buy": "Bestel dit pakket", "packages.unavailable": "Momenteel niet beschikbaar", "packages.redeemable": "Te gebruiken voor",
+    "login.title": "Inloggen", "login.google": "Doorgaan met Google",
+    "order.title": "Bevestig je bestelling", "order.confirm": "Bestelling bevestigen", "order.whatsapp": "Neem contact op met de beheerder via WhatsApp", "order.id": "Bestelnummer", "order.total": "Totaal",
+    "status.pending": "Betaling in afwachting", "status.submitted": "Betaling ingediend", "status.under_verification": "Wordt gecontroleerd", "status.approved": "Betaling goedgekeurd", "status.rejected": "Betaling afgewezen", "status.processing": "In behandeling", "status.fulfilled": "Voltooid", "status.cancelled": "Geannuleerd", "status.refund_requested": "Terugbetaling aangevraagd", "status.refunded": "Terugbetaald",
+    "dashboard.title": "Mijn account", "dashboard.orders": "Mijn bestellingen", "dashboard.noOrders": "Je hebt nog geen bestellingen geplaatst.",
+    "footer.independent": "Dit is een onafhankelijke dienst, niet verbonden aan een overheidsinstantie of platform van derden."
+  },
+  "sw": {
+    "nav.packages": "Vifurushi", "nav.dashboard": "Akaunti yangu", "nav.signIn": "Ingia", "nav.signOut": "Toka", "nav.howItWorks": "Jinsi inavyofanya kazi", "nav.support": "Msaada", "nav.admin": "Msimamizi", "nav.menu": "Menyu",
+    "common.language": "Lugha", "common.country": "Nchi", "common.currency": "Sarafu", "common.save": "Hifadhi mabadiliko", "common.retry": "Jaribu tena",
+    "hero.badge": "Huduma huru ya mikopo ya kidijitali", "hero.title": "Mikopo ya kidijitali, agiza kwa urahisi na uthibitishwe na mtu halisi.", "hero.subtitle": "Chagua kifurushi, weka oda yako, kisha kubaliana malipo moja kwa moja na msimamizi kupitia WhatsApp. Fuatilia kila hatua kwenye dashibodi yako.", "hero.cta": "Tazama vifurushi", "hero.secondary": "Jinsi inavyofanya kazi",
+    "packages.title": "Vifurushi vya mikopo", "packages.credits": "Mikopo {n}", "packages.buy": "Agiza kifurushi hiki", "packages.unavailable": "Hakipatikani kwa sasa", "packages.redeemable": "Hutumika kwa",
+    "login.title": "Ingia", "login.google": "Endelea na Google",
+    "order.title": "Thibitisha oda yako", "order.confirm": "Thibitisha oda", "order.whatsapp": "Wasiliana na msimamizi kwenye WhatsApp", "order.id": "Namba ya oda", "order.total": "Jumla",
+    "status.pending": "Inasubiri malipo", "status.submitted": "Malipo yametumwa", "status.under_verification": "Inakaguliwa", "status.approved": "Malipo yamekubaliwa", "status.rejected": "Malipo yamekataliwa", "status.processing": "Inashughulikiwa", "status.fulfilled": "Imekamilika", "status.cancelled": "Imeghairiwa", "status.refund_requested": "Ombi la kurejeshewa pesa", "status.refunded": "Imerejeshwa",
+    "dashboard.title": "Akaunti yangu", "dashboard.orders": "Oda zangu", "dashboard.noOrders": "Bado hujaweka oda yoyote.",
+    "footer.independent": "Hii ni huduma huru, haina uhusiano na mamlaka yoyote ya serikali wala jukwaa la mtu mwingine."
+  }
+}
